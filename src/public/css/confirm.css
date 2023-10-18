@@ -1,0 +1,77 @@
+.confirm__content {
+    max-width: 1230px;
+    margin: 0 auto;
+    padding: 30px 60px;
+}
+
+.confirm__heading {
+    text-align: center;
+    font-weight: bold;
+    font-size: 18px;
+    color: #000;
+}
+
+.form {
+    margin-bottom: 5px;
+}
+
+.confirm-table {
+    margin-bottom: 30px;
+}
+
+.confirm-table__inner {
+    width: 80%;
+    margin: 0 auto;
+}
+
+.confirm-table__row:not(:last-child) {
+    padding-bottom: 80px;
+}
+
+.confirm-table__header {
+    padding: 10px 10px 60px;
+    width: 30%;
+    font-size: 14px;
+    font-weight: bold;
+    text-align: left;
+}
+
+.confirm-table__text {
+    padding: 10px 30px 60px;;
+    width: 70%;
+    font-size: 14px;
+    font-weight: normal;
+}
+
+.confirm-table__text input {
+    border: none;
+}
+
+.form__button {
+    width: 120px;
+    margin: 0 auto;
+}
+
+
+.form__button-submit {
+    padding: 10px;
+    width: 100%;
+    height: 40px;
+    border: none;
+    border-radius: 3px;
+    color: #fff;
+    background-color: #000;
+    cursor: pointer;
+}
+
+.confirm__correction {
+    width: 30%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.confirm__correction-link {
+    padding:10px;
+    color: #000;
+}
+
